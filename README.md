@@ -6,7 +6,7 @@ Knowledge-aware Recommendation, [arXiv](https://arxiv.org/pdf/2108.06468.pdf).
 
 ## Environment Requirement
 
-The code runs well under python 3.7.7. The required packages are as follows:
+The code runs well under python 3.8.0. The required packages are as follows:
 
 - PyTorch-gpu == 1.4.0
 - numpy == 1.21.1
