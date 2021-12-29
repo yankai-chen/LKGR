@@ -28,6 +28,9 @@ Exp_run(args)
 python main_movie.py
 ```
 
+You can also download our five random datasplits via [link](https://drive.google.com/file/d/1YlMqQl4pxnV2cwfJnsmAw_4tfmfDYNcN/view?usp=sharing).
+
+
 ## Citation
 Please kindly cite our paper if you find this code useful for your research:
 
