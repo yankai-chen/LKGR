@@ -29,11 +29,13 @@ python main_movie.py
 ```
 
 ## Citation
-Please cite our paper if you find this code useful for your research:
+Please kindly cite our paper if you find this code useful for your research:
 
+```
 @inproceedings{chen2021modeling,
   title={Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation},
   author={Chen, Yankai and Yang, Menglin and Zhang, Yingxue and Zhao, Mengchen and Meng, Ziqiao and Hao, Jianye and King, Irwin},
   booktitle={The Fifteenth ACM International Conference on Web Search and Data Mining},
   year={2022} 
 }
+```
