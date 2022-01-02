@@ -1,5 +1,5 @@
 # LKGR
-This is the PyTorch implementation for our paper titled as "Modeling Scale-free Graphs with Hyperbolic Geometry for
+This is the PyTorch implementation for paper "Modeling Scale-free Graphs with Hyperbolic Geometry for
 Knowledge-aware Recommendation", [arXiv](https://arxiv.org/pdf/2108.06468.pdf). Yankai Chen, Menglin Yang, Yingxue Zhang, Mengchen Zhao, Ziqiao Meng, Jianye Hao, Irwin King. 2022. 
 
 ## Environment Requirement
