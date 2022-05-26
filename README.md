@@ -34,9 +34,13 @@ Please kindly cite our paper if you find this code useful for your research:
 
 ```
 @inproceedings{chen2021modeling,
-  title={Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation},
-  author={Chen, Yankai and Yang, Menglin and Zhang, Yingxue and Zhao, Mengchen and Meng, Ziqiao and Hao, Jianye and King, Irwin},
-  booktitle={The Fifteenth ACM International Conference on Web Search and Data Mining},
-  year={2022} 
+  title     = {Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation},
+  author    = {Chen, Yankai and Yang, Menglin and Zhang, Yingxue and Zhao, Mengchen and Meng, Ziqiao and Hao, Jianye and King, Irwin},
+  booktitle = {{WSDM} '22: The Fifteenth {ACM} International Conference on Web Search
+               and Data Mining, Virtual Event / Tempe, AZ, USA, February 21 - 25,
+               2022},
+  pages     = {94--102},
+  publisher = {{ACM}},
+  year      = {2022},
 }
 ```
